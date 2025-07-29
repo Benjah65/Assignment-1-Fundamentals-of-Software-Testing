@@ -1,0 +1,69 @@
+📝 Assignment 6: Defect Management
+🔄 Defect Lifecycle in Software Testing
+
+The defect lifecycle represents the journey of a software bug from the moment it’s discovered to when it’s resolved and closed. The stages typically include:
+
+    New – A tester finds a defect and logs it.
+
+    Assigned – The defect is assigned to a developer for fixing.
+
+    Open – The developer starts analyzing and fixing the defect.
+
+    Fixed – The defect has been resolved by the developer.
+
+    Retest – The tester retests to confirm the fix.
+
+    Closed – The defect is confirmed fixed and closed.
+
+    Reopened – If the issue is still present, the defect is reopened.
+
+Understanding and following this lifecycle ensures accountability and smooth communication between QA and development teams.
+🧠 Importance of Early Defect Identification
+
+Catching defects early = fewer headaches later. 🔍
+
+    Fixing bugs during the requirement or design stage is much cheaper than after release.
+
+    It avoids rework, cost overruns, and ensures timely delivery.
+
+    Early detection also protects the reputation of the software and improves user satisfaction.
+
+🛠️ Methods of Identifying Defects
+
+    Static Testing – Reviewing code, requirements, or documents without executing code (e.g., code review).
+
+    Dynamic Testing – Running the software to identify unexpected behavior (manual or automated testing).
+
+    Exploratory Testing – Intuitively navigating the application to uncover hidden issues.
+
+    User Feedback – Real users can report bugs that slipped through QA.
+
+    Monitoring & Logs – Automated tools or server logs can reveal runtime issues.
+
+📋 Importance of Logging Defects
+
+Proper defect logging is essential for:
+
+    Tracking the issue until it's resolved.
+
+    Communicating clearly between testers and developers.
+
+    Avoiding duplication of efforts.
+
+    Creating metrics for process improvement.
+
+A good defect report includes:
+
+    A clear title and description
+
+    Steps to reproduce the bug
+
+    Screenshots or logs
+
+    Severity and priority
+
+    Environment details (e.g., browser, OS, device)
+
+✅ Final Thoughts
+
+Defect management is not just about finding bugs – it's about ensuring the software evolves toward better quality. By mastering defect lifecycles, identifying issues early, and maintaining clear logs, testers become key players in delivering reliable, user-friendly products.
