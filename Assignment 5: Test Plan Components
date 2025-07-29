@@ -1,0 +1,79 @@
+📝 Assignment 5: Test Plan Components
+🎯 Learning Objectives Recap
+
+    Understand the significance of a test plan.
+
+    Identify the key components of a test plan.
+
+    Learn how to define scope effectively.
+
+    Recognize the importance of resource planning.
+
+    Understand the value of reviewing and updating test plans.
+
+1. What is the purpose of a test plan?
+
+The purpose of a test plan is to outline the strategy, objectives, schedule, scope, and resources required for software testing. It serves as a blueprint that ensures all testing activities are well-organized, aligned with the project goals, and effectively executed to deliver quality software.
+2. List and describe the key components of a test plan:
+
+a. Test Plan Identifier:
+A unique ID or title to distinguish the test plan document.
+
+b. Introduction:
+Provides a brief overview of the project and testing objectives.
+
+c. Test Items:
+Lists all the software products or features that will be tested.
+
+d. Features to be Tested:
+Specifies functionalities and components included in testing.
+
+e. Features Not to be Tested:
+Outlines what will be excluded from testing and why.
+
+f. Test Approach:
+Describes the overall testing strategy, techniques, and levels of testing.
+
+g. Pass/Fail Criteria:
+Defines conditions for determining test success or failure.
+
+h. Suspension and Resumption Criteria:
+Conditions under which testing is paused or resumed.
+
+i. Test Deliverables:
+Lists documents, reports, and other items to be delivered.
+
+j. Testing Tasks and Responsibilities:
+Describes who does what during the testing process.
+
+k. Environmental Needs:
+Details hardware, software, tools, and setups needed for testing.
+
+l. Schedule:
+Outlines testing timelines and milestones.
+
+m. Risks and Contingencies:
+Identifies potential risks and mitigation strategies.
+
+n. Approvals:
+List of stakeholders who must approve the test plan.
+3. Why is it important to define the scope of testing clearly in the test plan?
+
+Defining scope ensures that everyone is on the same page about what will and won't be tested. It helps avoid scope creep, manage expectations, allocate resources properly, and focus the team’s effort on high-priority areas — all of which lead to better testing outcomes.
+4. What are the essential resources required to create an effective test plan?
+
+    Skilled QA/test engineers
+
+    Access to application/software under test
+
+    Required test environments (hardware, OS, network, etc.)
+
+    Testing tools (automation, bug tracking, etc.)
+
+    Clear project documentation (requirements, design, etc.)
+
+    Time and budget allocation
+
+5. Why is it necessary to regularly review and update the test plan during a project?
+
+Projects evolve. Requirements change, new risks emerge, and timelines shift. Regular reviews ensure the test plan stays relevant and aligned with the latest project goals. Updating the plan helps teams adapt quickly and maintain testing effectiveness throughout the software development lifecycle.
