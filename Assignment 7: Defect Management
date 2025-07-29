@@ -1,0 +1,98 @@
+📝 Assignment 7: Defect Management
+🎯 Learning Objectives
+
+By the end of this assignment, you should be able to:
+
+    Define what a defect is in the context of software testing.
+
+    Describe the Defect Lifecycle and its phases.
+
+    Explain the importance of early defect identification.
+
+    Understand various methods for identifying defects.
+
+    Recognize the importance of logging and managing defects efficiently.
+
+📘 1. What is a Defect?
+
+A defect (also known as a bug or fault) is a flaw in software that causes it to behave in a way that is different from its expected outcome. Defects arise due to coding errors, requirement misunderstandings, or design flaws.
+🔁 2. Defect Lifecycle
+
+The Defect Lifecycle is the journey a defect takes from its discovery to its closure. Common stages include:
+
+    New – Defect is reported.
+
+    Assigned – Given to a developer.
+
+    Open – Developer is working on it.
+
+    Fixed – Code is corrected.
+
+    Retest – Tester verifies the fix.
+
+    Closed – Confirmed fixed and resolved.
+
+    Reopened – If the issue still exists.
+
+    Deferred/Rejected – May be postponed or deemed invalid.
+
+⚡ 3. Importance of Early Defect Identification
+
+    Reduces cost and time of fixing issues.
+
+    Improves product quality.
+
+    Prevents defects from snowballing into larger issues.
+
+    Boosts confidence in the development process.
+
+🔍 4. Methods of Identifying Defects
+
+    Static Testing: Reviewing code, documents, or requirements before execution (e.g., code reviews, walkthroughs).
+
+    Dynamic Testing: Running the program with test cases to check for defects.
+
+    User Feedback: Gathering insights from users during testing or after deployment.
+
+    Automated Testing Tools: Detect issues during continuous integration/automated test runs.
+
+🗂️ 5. Logging Defects
+
+Effective defect logging is critical. A good defect report should include:
+
+    Unique ID
+
+    Title/Description
+
+    Steps to reproduce
+
+    Expected vs actual results
+
+    Screenshots/logs if applicable
+
+    Priority and severity
+
+    Environment details
+
+    Assigned developer/tester
+
+    Current status
+
+📌 6. Tools for Defect Management
+
+Popular tools include:
+
+    JIRA
+
+    Bugzilla
+
+    MantisBT
+
+    Redmine
+
+    Azure DevOps
+
+These tools help track, prioritize, and communicate defects effectively.
+🔄 7. Summary
+
+Defect management is a key part of software testing. Managing bugs properly ensures a smoother development cycle, higher quality releases, and happy users. Remember, the earlier you find the bugs, the better!
